@@ -1,1 +1,2 @@
-20373879张希辰 
+import os
+os.system('python function_20373879.py')
