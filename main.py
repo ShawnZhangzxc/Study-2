@@ -1,2 +1,1 @@
-import os
-os.system('python function_20373206.py')
+20373879张希辰 
